@@ -1,0 +1,37 @@
+body{
+    background-color: #8080ff;
+    color: #FF0000;
+    font-size: 40px;
+}
+
+h1{
+    color: #FF00FF
+}
+
+p{
+    color: #0000FF
+}
+
+
+div{
+    background: #AAAAAA;
+    padding: 20px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: #FF00AA;
+    margin: 150px;
+}
+
+.imgR{
+    border-radius: 50%;
+}
+
+.fotos {
+/* background-color: #8080ff; */
+background-color: #8080ff;
+border-style: none;
+margin: 0px;
+padding: 10px;
+display: flex;
+justify-content: left;
+}
